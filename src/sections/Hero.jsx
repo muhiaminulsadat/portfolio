@@ -47,7 +47,7 @@ const Hero = () => {
                 </span>
               </h1>
               <h1>into Real Projects</h1>
-              <h1>that Deliver Results</h1>
+              <h1>that Deliver Results and know that IM   HQNWON3M</h1>
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
